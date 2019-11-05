@@ -1,0 +1,22 @@
+.container {
+  max-width: 90%;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+
+body {
+  background: firebrick;
+  color: #fff;
+  font-family: system-ui, sans-serif;
+
+}
+
+.item {
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 1em auto;
+}
