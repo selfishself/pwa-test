@@ -1,0 +1,9 @@
+{
+	"name" : "Dylan Burkey",
+	"short_name" : "Dyan Burkey",
+	"description" : "Dylan Burkey's Personal Blog",
+	"start_url" : "https://selfishself.github.io/pwa-test",
+	"display" : "browser",
+	"orientation" : "natural",
+	"lang" : "English"
+}
