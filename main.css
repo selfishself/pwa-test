@@ -21,7 +21,7 @@ body {
   margin: 1em auto;
 }
 
-a {
+a,a:active,a:hover {
   color: #fff;
   font-weight: 600;
   text-decoration: underline;
