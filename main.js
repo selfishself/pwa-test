@@ -8,3 +8,5 @@ function detectOrientation() {
     $('body').removeClass('landscape').addClass('portrait');
   }
 }
+
+detectOrientation();
