@@ -20,3 +20,9 @@ body {
   flex-wrap: nowrap;
   margin: 1em auto;
 }
+
+a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: underline;
+}
